@@ -6,3 +6,4 @@ Trigger JMX Test
 Trigger test
 
 EDC performance test trigger
+EDC performance demo
